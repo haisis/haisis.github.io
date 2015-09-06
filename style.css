@@ -1,0 +1,66 @@
+html {
+	background:  url(http://www.shoalcreekconservancy.org/wp-content/uploads/2014/01/austin-at-night.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.circular {
+    margin-right: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(myPhoto.jpg) no-repeat;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	}
+
+body {
+	padding: 0px;
+
+	margin-top: 0px;
+	width: 100%;
+}
+
+.about-box {
+	width: 100%;
+	margin: 0px 20px;
+	bottom: 35px;
+	opacity: .9;
+	position: fixed;
+	background-color:black;
+	padding: 30px;
+}
+
+h1 {
+	color: white;
+	font: 60px/60px 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', Arial, sans-serif;
+	margin: 0px 0px 10px 0px;
+	padding: 0;
+}
+
+p {
+	font: 25px/30px 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', Arial, sans-serif;
+	margin: 0px 0px 20px 20px;
+	padding: 0;
+	color: white;
+	text-indent: -20px;
+}
+
+a {
+	color: white;
+	padding: 0px 10px;
+	text-decoration: none;
+}	
+
+a:hover {
+	color: white;
+	text-decoration: underline;
+}
+button{
+	margin-left: auto;
+}
